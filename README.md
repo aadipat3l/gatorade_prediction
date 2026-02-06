@@ -22,8 +22,3 @@ It uses:
 - `super_gatorade_prediction.py` — main script
 - `gatorade_colors.csv` — dataset with past Gatorade colors
 
-## How to run
-
-1. Install dependencies:
-```bash
-pip install pandas scikit-learn
